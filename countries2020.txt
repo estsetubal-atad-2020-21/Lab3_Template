@@ -1,0 +1,11 @@
+Fields:
+
+- Country (or dependency);
+- Population (2020);
+- Land Area (Km²);
+- Median Age;
+- Urban Pop (%);
+- World Share (%)
+
+Adapted from:
+https://www.kaggle.com/tanuprabhu/population-by-country-2020
